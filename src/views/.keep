@@ -1,0 +1,3 @@
+If you use template language, such as EJS and Pug, you can add template files here.
+
+Otherwise, please keep your main files(.html or files build to .html files) under "src" folder.
