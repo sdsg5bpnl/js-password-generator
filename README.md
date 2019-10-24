@@ -4,6 +4,8 @@ JavaScript 密碼產生器
 
 ## 作品連結
 
+<https://sdsg5bpnl.github.io/js-password-generator/>
+
 ### 使用技術
 
 - Gulp 4
