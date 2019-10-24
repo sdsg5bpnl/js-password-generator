@@ -8,8 +8,7 @@ JavaScript 密碼產生器
 
 - Gulp 4
 - Pug
-- Bootstrap 4
-- Font Awesome 5 Free
+- TypeScript
 
 ### npm 指令
 
